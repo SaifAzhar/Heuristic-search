@@ -13,7 +13,7 @@ namespace ADS_Q6
             {
                 new Lorry(1),
                 new Lorry(2),
-                new Lorry(3)
+                new Lorry(3),
             };
 
             // Dataset of brick weights
